@@ -3,5 +3,5 @@
 def prime?(int)
   if int < 2 
     return false 
-  elsif 
+  els
 end
